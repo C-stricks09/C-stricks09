@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C-stricks09
 - 👀 I’m interested in ... learning computer science and building my portfollio 
-- 🌱 I’m currently learning ... cyber security and software devolmpment 
+- 🌱 I’m currently learning ... cyber security and software development  
 - 💞️ I’m looking to collaborate on ... anywork or businesses that can help me grow in my field 
 - 📫 How to reach me ... on here for now via messages  
 - 😄 Pronouns: ... human popcycle 
